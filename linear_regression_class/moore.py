@@ -1,9 +1,4 @@
-# shows how linear regression analysis can be applied to moore's law
-#
-# notes for this course can be found at:
-# https://deeplearningcourses.com/c/data-science-linear-regression-in-python
-# https://www.udemy.com/data-science-linear-regression-in-python
-# transistor count from: https://en.wikipedia.org/wiki/Transistor_count
+
 
 from __future__ import print_function, division
 from builtins import range
