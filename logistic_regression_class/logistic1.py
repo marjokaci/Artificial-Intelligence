@@ -1,10 +1,3 @@
-# demonstrates how to calculate the output of a logistic unit using numpy.
-# the data X and weight matrix w are randomly generated from a
-# standard normal distribution.
-#
-# the notes for this class can be found at: 
-# https://deeplearningcourses.com/c/data-science-logistic-regression-in-python
-# https://www.udemy.com/data-science-logistic-regression-in-python
 
 from __future__ import print_function, division
 from builtins import range
