@@ -1,8 +1,3 @@
-# logisitc regression classifier for the XOR problem.
-#
-# the notes for this class can be found at: 
-# https://deeplearningcourses.com/c/data-science-logistic-regression-in-python
-# https://www.udemy.com/data-science-logistic-regression-in-python
 
 from __future__ import print_function, division
 from builtins import range
